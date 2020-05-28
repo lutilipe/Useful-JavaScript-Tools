@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lutilipe/Useful-JavaScript-Tools/static/css/main.fc8b9a21.chunk.css",
+    "main.js": "/lutilipe/Useful-JavaScript-Tools/static/js/main.4b0f7c8f.chunk.js",
+    "main.js.map": "/lutilipe/Useful-JavaScript-Tools/static/js/main.4b0f7c8f.chunk.js.map",
+    "runtime-main.js": "/lutilipe/Useful-JavaScript-Tools/static/js/runtime-main.9bd77502.js",
+    "runtime-main.js.map": "/lutilipe/Useful-JavaScript-Tools/static/js/runtime-main.9bd77502.js.map",
+    "static/js/2.6db76f4c.chunk.js": "/lutilipe/Useful-JavaScript-Tools/static/js/2.6db76f4c.chunk.js",
+    "static/js/2.6db76f4c.chunk.js.map": "/lutilipe/Useful-JavaScript-Tools/static/js/2.6db76f4c.chunk.js.map",
+    "index.html": "/lutilipe/Useful-JavaScript-Tools/index.html",
+    "precache-manifest.f43bc5b1f714de0a09bafef66b129159.js": "/lutilipe/Useful-JavaScript-Tools/precache-manifest.f43bc5b1f714de0a09bafef66b129159.js",
+    "service-worker.js": "/lutilipe/Useful-JavaScript-Tools/service-worker.js",
+    "static/css/main.fc8b9a21.chunk.css.map": "/lutilipe/Useful-JavaScript-Tools/static/css/main.fc8b9a21.chunk.css.map",
+    "static/js/2.6db76f4c.chunk.js.LICENSE.txt": "/lutilipe/Useful-JavaScript-Tools/static/js/2.6db76f4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bd77502.js",
+    "static/js/2.6db76f4c.chunk.js",
+    "static/css/main.fc8b9a21.chunk.css",
+    "static/js/main.4b0f7c8f.chunk.js"
+  ]
+}
